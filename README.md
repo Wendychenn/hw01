@@ -3,6 +3,7 @@
 ##  Wendy's homework 01 
 ---
   Hi guys, I'm Wendy Chen, a first year PhD student from PME. I'm looking forward to utilizing R to statically analyze and summarize data obtained from my lab. 
+  
   I don't install my Git at the default location at first so I fail to connect a local RStudio project to a GitHub repo. I uninstall the Git after that, and install it correctly. But it shows *fatal: remote origin already exists*, when I mistype the url command at the beginning.
   
   What I find is that "origin" is the default name Git gives to the server I'm using. Because I'm cloning my repository, I need to link *origin* to my url correctly.
@@ -18,5 +19,5 @@
   * GitHub is a great resource to solve problems 
   * Just knowing what to do to solve the problems is not enough for the computational programming, I need to know why and how.
   
-  After finish cloning to my RStudio local file, further steps are easy to follow. All I need to do are writing README.md in Markdown, pushing it to the server and commiting the changes. 
+  After finishing cloning to my RStudio local file, further steps are easy to follow. All I need to do are writing README.md in Markdown, pushing it to the server and commiting the changes. 
   
