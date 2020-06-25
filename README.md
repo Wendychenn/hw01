@@ -21,3 +21,4 @@
   
   After finishing cloning to my RStudio local file, further steps are easy to follow. All I need to do are writing README.md in Markdown, pushing it to the server and commiting the changes. 
   
+  *Wendy*
